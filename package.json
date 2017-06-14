@@ -1,0 +1,25 @@
+{
+  "name": "auth-with-saga-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "history": "4.6.2",
+    "react": "15.6.0",
+    "react-dom": "15.6.0",
+    "react-redux": "5.0.5",
+    "react-router-dom": "4.1.1",
+    "react-router-redux": "5.0.0-alpha.6",
+    "redux": "3.6.0",
+    "redux-saga": "0.15.3"
+  },
+  "devDependencies": {
+    "eslint": "4.0.0",
+    "react-scripts": "1.0.7"
+  }
+}

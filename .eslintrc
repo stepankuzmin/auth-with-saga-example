@@ -1,0 +1,16 @@
+{
+  "extends": "react-app",
+  "plugins": [
+    "import",
+    "react"
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "rules": {
+    "semi": ["error", "always"],
+    "comma-dangle": ["error", "never"]
+  }
+}
