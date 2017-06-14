@@ -1,5 +1,7 @@
 # auth-with-saga-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/auth-with-saga-example.svg)](https://greenkeeper.io/)
+
 Example app how to handle authentication in Redux project using react-router 4.x with react-router-redux 5.x and redux-saga.
 
 https://medium.com/@stepankuzmin/authentication-with-react-router-redux-5-x-and-redux-saga-55da66b54be7
